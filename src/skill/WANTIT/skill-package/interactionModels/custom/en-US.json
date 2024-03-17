@@ -1,0 +1,88 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "slots": [
+            {
+              "name": "sentence",
+              "type": "Text"
+            }
+          ],
+          "name": "WANT_IT",
+          "samples": [
+            "{sentence}"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "values": [
+            {
+              "name": {
+                "value": "68586867868"
+              }
+            },
+            {
+              "name": {
+                "value": "my numeric text as 88776446789"
+              }
+            },
+            {
+              "name": {
+                "value": "every thing i say"
+              }
+            },
+            {
+              "name": {
+                "value": "want to"
+              }
+            },
+            {
+              "name": {
+                "value": "i want"
+              }
+            },
+            {
+              "name": {
+                "value": "please give "
+              }
+            },
+            {
+              "name": {
+                "value": "may i"
+              }
+            },
+            {
+              "name": {
+                "value": "can i"
+              }
+            }
+          ],
+          "name": "Text"
+        }
+      ],
+      "invocationName": "daddy omid"
+    }
+  }
+}

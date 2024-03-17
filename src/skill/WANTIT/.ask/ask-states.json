@@ -1,0 +1,16 @@
+{
+  "askToolkitStatesVersion": "2020-04-15",
+  "profiles": {
+    "default": {
+      "skillId": "amzn1.ask.skill.f4f317e9-f712-4ed1-af75-e4da6535cc70",
+      "skillMetadata": {
+        "eTag": "9c9a05b6af0fdda492f8e69546fe3543",
+        "lastDeployHash": "oFmrQ0bhaAtblLHfR3rAI3YxTY8=",
+        "lastImportId": "amzn1.ask-package.import.c019d38f-28f0-448d-8ba0-3efe10ca0645",
+        "lastImportTimestamp": "2024-03-16T18:11:55.449Z",
+        "lastDeployType": "interaction-model"
+      },
+      "deploymentStatus": "COMPLETE"
+    }
+  }
+}

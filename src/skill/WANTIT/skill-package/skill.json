@@ -1,0 +1,50 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-west-2:1111111111:function:ConversationStack-SkillFunct-skillfunctionB016215E-dPoSv81VVXgY"
+        },
+        "interfaces": [],
+        "locales": {},
+        "regions": {}
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "containsAds": false,
+      "isChildDirected": false,
+      "isExportCompliant": false,
+      "locales": {
+        "en-US": {}
+      },
+      "shoppingKit": {
+        "isAmazonAssociatesOnAlexaEnabled": false,
+        "isShoppingActionsEnabled": false
+      },
+      "usesPersonalInfo": false
+    },
+    "publishingInformation": {
+      "automaticDistribution": {
+        "isActive": false
+      },
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "distributionCountries": [],
+      "distributionMode": "PUBLIC",
+      "isAvailableWorldwide": true,
+      "locales": {
+        "en-US": {
+          "description": "This is a short Alexa Skill Test example",
+          "examplePhrases": [
+            "Alexa, open daddy omid"
+          ],
+          "keywords": [],
+          "name": "IWANTIT",
+          "summary": "This is a short Alexa Skill Test example"
+        }
+      },
+      "testingInstructions": "{\"ask_dist_username\":\"\",\"ask_dist_password\":\"\",\"ask_dist_testing_instructions\":\"Sample Testing Instructions.\"}"
+    }
+  }
+}
